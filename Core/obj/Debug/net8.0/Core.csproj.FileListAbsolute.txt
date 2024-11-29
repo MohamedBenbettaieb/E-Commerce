@@ -1,0 +1,11 @@
+C:\users\picas\onedrive\desktop\dotNETAngular\skinet\CORE\bin\Debug\net8.0\Core.deps.json
+C:\users\picas\onedrive\desktop\dotNETAngular\skinet\CORE\bin\Debug\net8.0\Core.dll
+C:\users\picas\onedrive\desktop\dotNETAngular\skinet\CORE\bin\Debug\net8.0\Core.pdb
+C:\users\picas\onedrive\desktop\dotNETAngular\skinet\CORE\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\picas\onedrive\desktop\dotNETAngular\skinet\CORE\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\users\picas\onedrive\desktop\dotNETAngular\skinet\CORE\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\users\picas\onedrive\desktop\dotNETAngular\skinet\CORE\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\users\picas\onedrive\desktop\dotNETAngular\skinet\CORE\obj\Debug\net8.0\Core.dll
+C:\users\picas\onedrive\desktop\dotNETAngular\skinet\CORE\obj\Debug\net8.0\refint\Core.dll
+C:\users\picas\onedrive\desktop\dotNETAngular\skinet\CORE\obj\Debug\net8.0\Core.pdb
+C:\users\picas\onedrive\desktop\dotNETAngular\skinet\CORE\obj\Debug\net8.0\ref\Core.dll
